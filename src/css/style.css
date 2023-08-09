@@ -101,7 +101,7 @@
 
 .informacoes .botao:hover{
     cursor: pointer;
-    background-color: hsl(159, 32%, 23%);;
+    background-color: var(--cor-extra);
 }
 
 .carrinho{

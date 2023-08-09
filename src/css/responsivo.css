@@ -7,7 +7,7 @@
     }
 
     .container .principal .imagem.mobile{
-        background-image: url('../imagens/image-product-mobile.jpg') center center;
+        background-image: url('../imagens/image-product-mobile.jpg') center;
         width: 100%;
         height: 500%;
     }
@@ -33,6 +33,7 @@
     }
 }
 
+
 @media(max-width: 400px){
     .informacoes .texto .titulo{
         font-size: 20px;
@@ -42,6 +43,7 @@
         font-size: 20px;
     }
 }
+
 
 @media(max-width: 285px){
     .informacoes .texto .titulo{

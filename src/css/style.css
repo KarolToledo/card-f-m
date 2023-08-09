@@ -18,9 +18,10 @@
     box-shadow: 1px 1px 3px var(--cor-media);
 }
 
-.container .principal .imagem{
-    display: flex;
-    align-self: stretch;
+.container .principal .imagem.desktop{
+    background-image: url("../imagens/image-product-desktop.jpg");
+    background-size: cover;
+    height: 100%;
     width: 50%;
 }
 

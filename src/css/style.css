@@ -109,3 +109,10 @@
     height: 15px;
     margin-right: 12px;
 }
+
+.attribution{
+    background-color: var(--cor-clara);
+    color: var(--cor-media);
+    text-align: center;
+    font-size: 12px;
+}

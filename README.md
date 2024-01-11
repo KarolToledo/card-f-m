@@ -1,4 +1,4 @@
-<h1>Desafio Frontend Mentor</h1>
+<h1>Desafio Card Component Frontend Mentor</h1>
 
 <p> Este card component é um desafio Frontend Mentor, realizei também a construção do layout responsivo para vários tamanhos de tela.</p>
 
